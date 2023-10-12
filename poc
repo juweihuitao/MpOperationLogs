@@ -1,0 +1,1 @@
+Adding 'X-Forwarded For:<script>alert (1)</script>' to the request header of logging in to the WordPress backend will succeed
